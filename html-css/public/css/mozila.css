@@ -1,0 +1,49 @@
+#body{
+    height: 900px;
+    /* background-color: rgba(137, 43, 226, 0.23); */
+    
+}
+
+
+
+#box{
+    top: 50px;
+    height: 700px;
+    width: 400px;
+    background-color: rgba(153, 226, 43, 0.525);
+    position: relative;
+    left: 450px;
+    padding:20px;
+    border: 2px solid rgba(220, 20, 60, 0.58);
+}
+
+
+#heading{
+position: relative;
+left: 78px;
+top:50px;
+font-size: 40px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 500;
+text-shadow: 3px 2px;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgba(0, 0, 0, 0.742);
+color: rgba(220, 20, 60, 0.58);
+}
+
+#firefox{
+    position: relative;
+    top: 100px;
+    left: 100px;
+    height: 200px;
+    width: 200px;
+}
+
+#spantag{
+position: relative;
+top: 140px;
+font-size: 15px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: justify;
+
+}

@@ -1,0 +1,48 @@
+
+#imgone{
+    position: absolute;
+    left: 20%;
+    top: 130%;
+    width:100px;
+
+  }
+
+  #para1{
+    position: absolute;
+    left: 15%;
+    top: 150%;
+    width:250px;
+    text-align: center;
+  }
+
+
+#divfour{
+    border-style: solid;
+    background-color: #4CAF50;
+    }
+
+    #divfive{
+      border-style: solid;
+      background-color: #4CAF50;
+      }
+
+
+    #para2{
+      position: absolute;
+      left: 40%;
+      top: 150%;
+      width:250px;
+      text-align: center;
+    }
+
+    #imgtwo{
+      position: absolute;
+      left: 46%;
+      top: 130%;
+      width:100px;
+    }
+
+  
+    #bodytwo{
+        background-color: #4CAF50;
+      }
